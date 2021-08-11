@@ -23,6 +23,11 @@ it which is Pearl Vision Safaris and the developers inclusive.
 
 **** DEVELOPERS CREDIT ****
 
-5. Check the readme.txt to verify Developers.
+PEARL VISION DEVELOPERS
+1. This template has been made with love by Colorlib : https://colorlib.com
+
+2. The entire UX Design, Content, Image rendering and Extra feature additions 
+   have been re-developed by SEAN KAMUGASA :https://seankamugasa.github.io/ 
+   SEAN KAMUGASA is a Software Enginner & Data Science Professional.
 
 -Cyber Crime In Uganda is Active.

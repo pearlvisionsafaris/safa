@@ -23,14 +23,11 @@ it which is Pearl Vision Safaris and the developers inclusive.
 
 **** DEVELOPERS CREDIT ****
 
-                    <div class="content_iner"><center>
-                        <h2>PEARL VISION DEVELOPERS</h2><br>
-                        <p>
-                        <br>1. This template has been made with love by <a href="https://colorlib.com" target="_blank"><strong>Colorlib</strong></a>.
-                        <br><a href="https://colorlib.com" target="_blank"><strong>Colorlib</strong></a> is the number one source of free and premium templates. 
-                        <br><br>2. The entire UX Design, Content, Image rendering and Extra feature additions have been re-developed by <a href="https://seankamugasa.github.io/"><strong>SEAN KAMUGASA</strong></a>.
-                        <br><a href="https://seankamugasa.github.io/"><strong>SEAN KAMUGASA</strong></a> is a Software Enginner & Data Science Professional.
-                    </p>
-                        </div></center>
+PEARL VISION DEVELOPERS
+1. This template has been made with love by Colorlib : https://colorlib.com
+
+2. The entire UX Design, Content, Image rendering and Extra feature additions 
+   have been re-developed by SEAN KAMUGASA :https://seankamugasa.github.io/ 
+   SEAN KAMUGASA is a Software Enginner & Data Science Professional.
 
 -Cyber Crime In Uganda is Active.
